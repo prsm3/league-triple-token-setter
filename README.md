@@ -19,5 +19,5 @@ py set_tokens_with_logs.py
 ```
 
 ## Screenshots
-![Screen1](Screen1)
-![Screen2](Screen2)
+![Screen1](Screen1.png)
+![Screen2](Screen2.png)
