@@ -18,6 +18,10 @@ Download the python script and run it.
 py set_tokens_with_logs.py
 ```
 
+### How to find the Token ID
+1. visit this [website](https://challenges.darkintaqt.com/)
+2. search for your token and copy the digits from the URL
+
 ## Screenshots
 ![Screen1](Screen1.png)
 ![Screen2](Screen2.png)
