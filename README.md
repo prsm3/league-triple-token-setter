@@ -15,5 +15,5 @@ pip install requests
 ### Running
 Download the python script and run it.
 ```bash
-py set_tokens.py
+py set_tokens_with_logs.py
 ```
