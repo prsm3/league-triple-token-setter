@@ -19,5 +19,5 @@ py set_tokens_with_logs.py
 ```
 
 ## Screenshots
-![Screen1](Screenshot 2026-02-22 124520.png)
-![Screen2](Screenshot 2026-02-22 114317.png)
+![Screen1]('Screenshot 2026-02-22 124520.png')
+![Screen2]('Screenshot 2026-02-22 114317.png')
